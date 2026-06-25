@@ -164,7 +164,7 @@ footer{background:rgba(255,255,255,.03);backdrop-filter:var(--blur);-webkit-back
 /* CTA BAND */
 .cta-band{padding:80px 56px;border-top:1px solid var(--glass-border);position:relative;overflow:hidden;z-index:1;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:48px;background:linear-gradient(135deg,rgba(255,255,255,.03) 0%,transparent 100%)}
 .cta-band-logo{display:flex;align-items:center;justify-content:center}
-.cta-band-logo img{width:400px;height:auto;max-height:200px;object-fit:contain}
+.cta-band-logo img{width:450px;height:auto;object-fit:contain}
 .cta-band-content{display:flex;flex-direction:column;align-items:flex-start}
 .cta-band .sec-title{max-width:560px;margin:0 0 14px}
 .cta-band .sec-desc{margin:0 0 36px;text-align:left}
